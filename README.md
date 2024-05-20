@@ -5,7 +5,6 @@ input file. The output integers are sorted in increasing order.
 **Code Description**
 UniqueInt.py: This file contains the main code for processing the input files and generating the output files with unique, sorted integers.
 
-
 **Functions**
 1. processFile(source_file, destination_file)
    Reads the input file, extracts unique integers, sorts them, and writes them to the output file.
@@ -17,3 +16,19 @@ UniqueInt.py: This file contains the main code for processing the input files an
    Writes each integer from the list to the specified output file, one per line.
 5. handle_file_operations(source_file_path, destination_file_path)
 Manages the overall process of reading from the source file, processing the integers, and saving them to the destination file.
+
+**Input Files**
+Located in the sample_inputs/ folder
+
+**Output Files**
+Generated in the sample_results/ folder.
+Each file contains unique integers from the corresponding input file
+
+Testing the Code
+To test the code on each file:
+
+Ensure the input files are in the sample_inputs/ folder.
+Ensure the output files will be generated in the sample_results/ folder.
+
+
+This documentation provides a comprehensive guide on how to set up, run, and test the project for processing unique integers from input files and generating the corresponding sorted output files.

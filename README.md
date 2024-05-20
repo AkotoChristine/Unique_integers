@@ -29,4 +29,4 @@ To test the code on each file:
 **Ensure the link of the input file  == source_file and the output file == destination_file in Uniquelnt.py**
 
 
-This documentation provides a comprehensive guide on how to run and test the project for processing unique integers from input files and generating the corresponding sorted output files.
+This documentation provides a comprehensive guide on what the project is about and how test the project for processing unique integers from input files and generating the corresponding sorted output files.

@@ -18,10 +18,10 @@ UniqueInt.py: This file contains the main code for processing the input files an
 Manages the overall process of reading from the source file, processing the integers, and saving them to the destination file.
 
 **Input Files**
-Located in the sample_inputs/ folder
+Located in the sample_inputs_for_student folder
 
 **Output Files**
-Generated in the sample_results/ folder.
+Generated in the sample_results_for_student folder.
 Each file contains unique integers from the corresponding input file
 
 **Testing the Code**

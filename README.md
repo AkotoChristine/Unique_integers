@@ -24,11 +24,9 @@ Located in the sample_inputs/ folder
 Generated in the sample_results/ folder.
 Each file contains unique integers from the corresponding input file
 
-Testing the Code
+**Testing the Code**
 To test the code on each file:
-
-Ensure the input files are in the sample_inputs/ folder.
-Ensure the output files will be generated in the sample_results/ folder.
+Ensure the link of the input file  == source_file and the output file == destination_file in Unigquelnt
 
 
-This documentation provides a comprehensive guide on how to set up, run, and test the project for processing unique integers from input files and generating the corresponding sorted output files.
+This documentation provides a comprehensive guide on how to run and test the project for processing unique integers from input files and generating the corresponding sorted output files.
